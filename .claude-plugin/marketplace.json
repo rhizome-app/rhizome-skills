@@ -1,0 +1,14 @@
+{
+  "name": "rhizome",
+  "owner": {
+    "name": "Rhizome"
+  },
+  "description": "Rhizome's skills and MCP server for Claude Code.",
+  "plugins": [
+    {
+      "name": "rhizome",
+      "source": "./",
+      "description": "Work in Rhizome from your coding agent: topics, decisions, tasks and the ODR register."
+    }
+  ]
+}
