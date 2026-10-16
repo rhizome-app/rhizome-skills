@@ -1,18 +1,9 @@
 {
   "name": "rhizome",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Work in Rhizome from your coding agent: topics, decisions, tasks and the ODR register.",
   "author": {
     "name": "Rhizome"
   },
-  "license": "Apache-2.0",
-  "userConfig": {
-    "server_url": {
-      "type": "string",
-      "title": "Rhizome MCP server URL",
-      "description": "The address of Rhizome's MCP server, ending in /mcp. Keep the default unless you were given another address.",
-      "default": "https://api.get-rhizome.app/mcp",
-      "required": true
-    }
-  }
+  "license": "Apache-2.0"
 }

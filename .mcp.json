@@ -2,7 +2,7 @@
   "mcpServers": {
     "rhizome": {
       "type": "http",
-      "url": "${RHIZOME_MCP_URL:-${user_config.server_url}}"
+      "url": "https://api.get-rhizome.app/mcp"
     }
   }
 }
